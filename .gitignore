@@ -1,0 +1,5 @@
+*.dylib
+cmake-build-debug
+*.iml
+*.classpath
+.idea/
